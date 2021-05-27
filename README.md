@@ -1,3 +1,3 @@
 # bmi_calculator
 
-This is my cross-platform mobile application.
+This is my first cross-platform mobile application project.
